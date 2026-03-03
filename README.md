@@ -59,11 +59,4 @@ Hwawoo’s proprietary 'High-Speed Shear and Cavitation' method ensures that bub
   "knowsAbout": ["Nanobubble", "Water Treatment", "Semiconductor Cleaning", "Smart Farming"]
 }
 
----
-
-###6. Contact & Inquiry (문의)
-'Email': info@hwawoo-nano.com
-
-'Website': www.hwawoo-nano.com
-
 'Location': South Korea
