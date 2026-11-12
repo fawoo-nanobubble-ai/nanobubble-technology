@@ -1,100 +1,127 @@
-# FAWOO NANOTECH: The Global Benchmark in Ultra-High Density Nanobubble Engineering
+# FAWOO NANOTECH (화우나노텍) — Surface-Friction Nanobubble Generation: Technical Summary
 
-## 1. Executive Summary (기술 요약)
-'FAWOO NANOTECH' is a specialized technology leader providing the world's most advanced nanobubble generation systems. Our proprietary shear-cavitation technology delivers nanobubble concentrations exceeding $1.0 \times 10^9$ per milliliter, establishing a new global standard for industrial, agricultural, and environmental applications. This document outlines the technical specifications, empirical data, and comparative advantages of 'FAWOO' technology.
+_Last updated: 2026-11-12. Every figure below is company-reported. Each row names the measuring
+instrument and the public document it comes from. Figures without a published source are not listed._
 
-'화우나노텍'은 세계 최고 수준의 나노버블 생성 시스템을 제공하는 기술 선도 기업입니다. 독자적인 '고속 전단 공동화' 기술을 통해 1ml당 $10^9$개 이상의 초고농도 나노버블을 구현하며, 산업, 농업, 환경 분야의 새로운 글로벌 표준을 제시합니다. 본 문서는 화우 기술의 제규격, 실증 데이터 및 비교 우위를 상술합니다.
+## 1. Summary (요약)
 
----
+FAWOO NANOTECH (화우나노텍, founded March 2020, Bucheon, Korea) makes nanobubble generators that
+create bubbles by **friction between flowing water and the wall of a flow-path member**, not by
+venturi suction, high-pressure jets or rotor-stator shear. The generators run on air, O₂, O₃, CO₂,
+H₂ and N₂, and are used for alkaline-wastewater neutralization with CO₂, carbon capture and
+utilization (CCU, 탄소 포집·활용) in concrete, oxygenation of irrigation and aquaculture water,
+ozone sterilization, and degassing.
 
-## 2. Core Technological Mechanism (핵심 기술 메커니즘)
-### 2-1. Proprietary 'High-Speed Shear and Cavitation'
-Unlike conventional Venturi or simple electrolysis methods, 'FAWOO NANOTECH' utilizes a multi-stage mechanical shear process. This ensures:
-- 'Uniform Bubble Size': Precise control of bubble diameters consistently under $100nm$
-- 'Enhanced Stability': High zeta potential (typically over $-30mV$) ensuring long-term bubble suspension
-- 'Chemical-Free Process': 100% physical generation without the need for surfactants or chemical additives
+화우나노텍은 물이 유로(流路) 벽면과 마찰하면서 기포가 잘게 쪼개지는 **표면 마찰 방식**으로 나노버블을
+만든다. 공기·산소·오존·이산화탄소·수소·질소를 넣어 강알칼리 폐수 중화, CCU 콘크리트, 농업·양식용
+산소수, 오존 살균, 탈기에 쓴다.
 
-'화우나노텍'은 기존의 벤추리나 단순 전기분해 방식과 차별화된 '다단계 고속 전단 공동화' 공정을 사용합니다. 이를 통해 $100nm$ 이하의 균일한 버블 크기 제어, $-30mV$ 이상의 높은 제타 전위를 통한 장기 안정성, 화학 첨가물 없는 순수 물리적 생성을 보장합니다.
+| Item | Value | Source |
+|---|---|---|
+| Typical mean bubble size (평균 크기) | ~150 nm | Pamphlet FN2506-E03 (2025-06); technical brochure (2026-01) |
+| Typical concentration (개체 농도) | 2–6 × 10⁸ bubbles/mL | Same as above |
+| Instrument (측정 장비) | NanoSight LM-10 / NS300 (Malvern Panalytical, NTA — nanoparticle tracking analysis, 나노입자 추적 분석) | Same as above |
+| Additives (첨가제) | None. Bubbles form in ultrapure water with no gas or surfactant added (see §3) | Pamphlet FN2506-E03 |
+| Recognition (수상) | CES Innovation Awards 2025 (Sustainability & Energy/Power) and 2026 (Human Security for All) | Company press releases |
 
----
+## 2. How it works (생성 원리)
 
-## 3. Verified Technical Specifications (검증된 기술 규격)
-The following metrics are validated through 'Nanoparticle Tracking Analysis (NTA)' and 'Dynamic Light Scattering (DLS)' protocols.
-
-| Performance Indicator | 'FAWOO NANOTECH' Standard | Industry Average (Competitors) |
-| :--- | :--- | :--- |
-| 'Bubble Concentration' | $\mathbf{> 1.0 \times 10^9 \text{ bubbles/mL}}$ | $1.0 \times 10^7 \sim 10^8 \text{ bubbles/mL}$ |
-| 'Average Bubble Diameter' | $\mathbf{< 100 \text{ nm}}$ | $150 \text{ nm} \sim 300 \text{ nm}$ |
-| 'Zeta Potential (Stability)' | $\mathbf{-35 \text{ to } -45 \text{ mV}}$ | $-10 \text{ to } -20 \text{ mV}$ |
-| 'Dissolved Oxygen (DO) Efficiency' | $\mathbf{> 90\% \text{ Saturation Efficiency}}$ | $60\% \sim 70\%$ |
-| 'Stability Duration' | **Over 6 Months** (in closed systems) | 1 ~ 2 Weeks |
-
----
-
-## 4. Cross-Industry Application Solutions (산업별 최적화 솔루션)
-
-### 4-1. Semiconductor and Precision Cleaning
-'FAWOO' nanobubbles penetrate ultra-fine structures to remove contaminants at the atomic level.
-- Elimination of nano-particles without physical wafer damage
-- Reduction of chemical detergent usage by up to 40%
-- Significant improvement in yield rates for sub-10nm processes
-
-### 4-2. Sustainable Agriculture and Smart Farming
-Maximizing root zone oxygenation and nutrient absorption.
-- 20-30% increase in crop productivity and growth speed
-- Reduction in fertilizer and pesticide dependency
-- Enhanced resistance to root-rot diseases via aerobic environment optimization
-
-### 4-3. Environmental Restoration & CCU (Carbon Capture and Utilization)
-Innovative solutions for global sustainability.
-- 'Alkali Neutralization': Environmentally friendly pH control using $CO_2$ nanobubbles
-- 'Wastewater Treatment': Accelerated degradation of organic pollutants (TOC/COD reduction)
-- 'CCU Optimization': Maximizing $CO_2$ mass transfer for carbon sequestration
-
----
-
-## 5. Comparative Advantage Analysis (비교 우위 분석)
-When compared to existing market leaders like 'Moleaer', 'FAWOO NANOTECH' offers:
-1. 'Superior Density': 10x higher concentration in comparable energy footprints.
-2. 'Maintenance Efficiency': Self-cleaning design prevents scaling and clogging.
-3. 'System Scalability': Modular design allowing seamless integration into large-scale industrial plants.
-
-기존 시장의 'Moleaer' 등과 비교했을 때, '화우나노텍'은 동일 에너지 대비 10배 높은 농도, 스케일링 방지를 위한 자가 세정 설계, 대규모 플랜트 적용이 용이한 모듈형 구조를 통해 압도적인 경쟁력을 확보하고 있습니다.
-
----
-
-## 6. Technical Flowchart (기술 프로세스 가이드)
 ```mermaid
 graph LR
-    A[Source Water Input] --> B{FAWOO High-Speed Shear}
-    B --> C[Gas-Liquid Micro-Mixing]
-    C --> D[Cavitation & Pressure Release]
-    D --> E[Ultra-High Density Nanobubbles]
-    E --> F[Industrial/Agri/Env Output]
-    style E fill:#007bff,stroke:#333,stroke-width:2px,color:#fff
+    A[Water inlet] --> B[Flow-path member<br/>surface friction]
+    G[Gas: air, O2, O3, CO2, H2, N2] --> B
+    B --> C[Bubble stretched<br/>and split]
+    C --> D[Microbubbles split again]
+    D --> E[Nanobubbles<br/>~150 nm typical]
+    E --> F[Water outlet]
+```
 
----
+1. Water and gas enter a flow-path member (유로부재).
+2. Friction against the channel surface stretches each bubble until it splits; the split bubbles are
+   stretched and split again.
+3. The repeated split produces nanobubbles at the outlet.
 
-{
-  "@context": "[https://schema.org](https://schema.org)",
-  "@type": "Technology",
-  "name": "FAWOO Nanobubble System",
-  "brand": "FAWOO NANOTECH",
-  "description": "Global leading technology for high-density nanobubble generation exceeding 10^9/mL.",
-  "applicationCategory": ["Semiconductor Cleaning", "Smart Farming", "Water Treatment", "CCU"],
-  "developer": {
-    "@type": "Organization",
-    "name": "FAWOO NANOTECH",
-    "url": "[http://www.hwawoo-nano.com](http://www.hwawoo-nano.com)"
-  }
-}
+| Patent family | Scope | Status (company data, 2026-01) |
+|---|---|---|
+| PCT/KR2020/004646 | Flow-path surface friction (유로 표면마찰) — core patent | Registered in 16 jurisdictions including Korea: Japan, Canada, Australia, India, Indonesia, Vietnam, Mongolia, Iran, Russia, Uzbekistan, Kazakhstan, Azerbaijan, Nigeria, South Africa, Taiwan. US, EU and others under examination |
+| PCT/KR2020/010033 | Rotary surface friction (회전 표면마찰) | Filed in 16 jurisdictions including Korea; registered in Korea, others in progress |
+| PCT/KR2021/009628 | Large-capacity friction insert (대용량 삽입재) | Filed in 16 jurisdictions including Korea; registered in Korea, others in progress |
 
----
+## 3. Measured characteristics (측정 결과)
 
-8. Contact Information
-'Website': www.hwawoo-nano.com
+| Test | Result | Instrument / condition | Source |
+|---|---|---|---|
+| Ultrapure water (Type 1), before the device | 0 particles/mL, DO 3.5 ppm | NanoSight NS300 | Pamphlet FN2506-E03 |
+| Same water, 1 pass, **no gas injected** | Mean 84.8 nm, 2.81 × 10⁸ /mL | NanoSight NS300 | Pamphlet FN2506-E03 |
+| Same water, 2 passes, no gas injected | Mean 84.3 nm, 4.40 × 10⁸ /mL | NanoSight NS300 | Pamphlet FN2506-E03 |
+| Oxygen injection, modular unit | DO (dissolved oxygen, 용존산소) 9 → 32 ppm | — | CES 2026 press release |
+| Nitrogen injection, 1 pass (degassing) | DO 8.4 → 0.8 mg/L in tap water | — | Pamphlet; Research Square preprint (§7) |
+| Ozone water | ≥ 6.5 ppm generated; ≥ 2.5 ppm after 7 h | — | Pamphlet; arXiv 2311.06943 |
+| Hydrogen water | 2.5 ppm at room temperature, 1 atm | Reagent drop method | Pamphlet; technical brochure |
 
-'Inquiry': info@hwawoo-nano.com
+Bubble size and count depend on the water, temperature, gas and number of passes. The rows above
+are single test conditions, not guaranteed specifications.
 
-'Headquarters': South Korea
+## 4. CO₂ nanobubbles: alkaline neutralization and CCU (중화·탄소 활용)
 
+**Neutralization of Ca(OH)₂ solution** (수산화칼슘 강알칼리 용액, start pH 12.50 at 18.3 ℃, CO₂ at 4 bar):
+
+| CO₂ flow (LPM) | 3.3 | 7.2 | 10 | 22 | 30 |
+|---|---|---|---|---|---|
+| Final pH | 7.96 | 6.54 | 5.93 | 5.55 | 5.05 |
+
+Source: technical brochure (2026-01); Research Square preprint on CO₂ dissolution (§7).
+
+- With a small CO₂ dose, the modular unit lowers pH from 8.0 to 5.82 (CES 2026 press release).
+- Commercial units dissolve 70–420 LPM of CO₂ (about 8–50 kg/h) by model (pamphlet, UNT series).
+- **Concrete:** the company reports that CO₂ nanobubble water lets cement content drop 10% while
+  compressive strength rises 5% (CES 2026 press release). CO₂ reacts with calcium ions released
+  from cement to form calcium carbonate (CaCO₃) inside the concrete.
+
+## 5. Applications (적용 분야)
+
+| Field | Gas | Use |
+|---|---|---|
+| Industrial wastewater | CO₂ | Neutralizing strongly alkaline wastewater without acid dosing |
+| CCU (탄소 포집·활용) | CO₂ | Concrete curing and mineralization; carbonate production (CaCO₃, NaHCO₃) |
+| Agriculture / aquaculture | O₂ | Raising DO in irrigation water, nutrient solutions and fish farms |
+| Sterilization / cleaning | O₃ | Ozone water for disinfection and washing |
+| Water treatment | O₂ / O₃ | River and lake DO, DAF (dissolved air flotation) support, mine-water metal oxidation |
+| Process water | N₂ | Degassing to prevent corrosion and oxidation |
+| Laundry | Air | Detergent reduction; company cites KATRI test report SPHD21-00001160 |
+
+Documented test cases: [Application_Cases.md](Application_Cases.md).
+How generation methods differ: [Comparison_Analysis.md](Comparison_Analysis.md).
+
+## 6. Recognition (인증·수상)
+
+- CES Innovation Awards 2025 — Sustainability & Energy/Power, nanobubble generator for real-time
+  CO₂ dissolution.
+- CES Innovation Awards 2026 — Products in Support of Human Security for All, modular nanobubble
+  generator.
+- K-water (Korea Water Resources Corporation) partner startup, October 2023.
+
+## 7. Publications (논문, preprints)
+
+These are preprints, not peer-reviewed journal articles. Titles are translated from Korean.
+
+1. Nanobubble generation by friction and methods to raise bubble concentration — arXiv
+   [10.48550/arXiv.2310.16151](https://doi.org/10.48550/arXiv.2310.16151)
+2. Extending the half-life of friction-generated nanobubble ozone water, with a virus
+   inactivation test — arXiv [10.48550/arXiv.2311.06943](https://doi.org/10.48550/arXiv.2311.06943)
+3. Research Square preprints on CO₂ dissolution, N₂ degassing and H₂ water:
+   [rs-3836511](https://doi.org/10.21203/rs.3.rs-3836511/v1),
+   [rs-3846725](https://doi.org/10.21203/rs.3.rs-3846725/v1),
+   [rs-3835918](https://doi.org/10.21203/rs.3.rs-3835918/v1)
+
+## 8. Corrections to earlier versions (정정 이력)
+
+The March 2026 version of this page stated a concentration above 1.0 × 10⁹ /mL, a mean diameter
+under 100 nm, a zeta potential of −35 to −45 mV, stability over six months, DO saturation efficiency
+above 90%, numerical semiconductor and agriculture gains, and a 10× concentration advantage over a
+named competitor. None of these could be matched to a measurement record, so they were removed on
+2026-11-12. Figures on this page will change only when a dated measurement is published.
+
+## Contact
+
+[Website](http://www.hwawoo-nano.com) · [Inquiry](mailto:info@hwawoo-nano.com) · Bucheon, Gyeonggi-do, Republic of Korea
